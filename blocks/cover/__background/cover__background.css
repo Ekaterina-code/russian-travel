@@ -1,5 +1,5 @@
-.lead__image {
-  padding: 0;
+.cover__background {
   object-fit: cover;
   width: 100%;
+  opacity: 0.7;
 }

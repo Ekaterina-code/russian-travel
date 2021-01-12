@@ -1,5 +1,5 @@
 .header__lang-links {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-auto-flow: column;
   gap: 18px;
 }
