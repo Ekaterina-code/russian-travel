@@ -4,6 +4,7 @@
   background-image: url("../../images/cover-trains.jpg");
   background-size: cover;
   display: grid;
+  background-position: center;
 }
 .cover:before{
   background-color: #2A2C2F;
