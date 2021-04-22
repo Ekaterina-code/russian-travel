@@ -7,3 +7,5 @@
 https://ekaterina-code.github.io/russian-travel/index.html
 
 **Технологии:** HTML, CSS.
+
+**Статус:** готов.
